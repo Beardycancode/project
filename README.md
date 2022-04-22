@@ -24,7 +24,7 @@ Project Status
 The project is currently in development Stage.
 Application URL
 
-<a href="https://chat-freely-app.herokuapp.com">click here</a>
+<a href="https://chat-freely-app.herokuapp.com">click here to run the application</a>
          
 Installation and Setup Instructions
 
