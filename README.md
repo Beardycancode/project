@@ -24,7 +24,8 @@ Project Status
 The project is currently in development Stage.
 Application URL
 
-<a href="https://chat-freely-app.herokuapp.com>click here</a>
+<a href="https://chat-freely-app.herokuapp.com">click here</a>
+         
 Installation and Setup Instructions
 
 Clone down this repository. You will need node and npm installed globally on your machine.
